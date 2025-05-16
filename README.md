@@ -52,13 +52,6 @@ LOAD FROM "cars.txt";
 
 ---
 
-## 📦 Submission Notes
-
-- ✅ Only `.cpp`, `.hpp`, and `CMakeLists.txt` included in the `.zip`
-- ✅ All dependencies handled with `FetchContent()` (no external folders)
-- ✅ Demo video file provided separately (max 3 minutes, no code or audio)
-- ❌ No IDE folders, build artifacts, or Git metadata
-
 ---
 
 ## 🎓 Author
