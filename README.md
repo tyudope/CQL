@@ -65,5 +65,3 @@ LOAD FROM "cars.txt";
 
 **Selim Dalçiçek**  
 Polsko-Japońska Akademia Technik Komputerowych  
-Group: 36  
-Student ID: s33894
